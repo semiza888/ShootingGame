@@ -36,7 +36,4 @@ while running:
     screen.blit(target_image, (target_x, target_y))
     pygame.display.update()
 
-
-    pass
-
     pygame.quit
